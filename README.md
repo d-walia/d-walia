@@ -12,9 +12,20 @@ I'm a marketer working at the intersection of **AI and go-to-market strategy** �
 
 I'm using this space to share what I build and learn in public — experiments, teardowns, prompt libraries, and the occasional skill worth reusing.
 
-## 🛠️ Tools
+**Portfolio site → [dw-digital-consulting.com](https://dw-digital-consulting.com)** — my work, the marketing agents I've built, and the AI stack I run across the funnel.
 
-| Tool | What it does | Status |
+## 🛠️ Marketing agents
+
+Custom agents built with Claude for real GTM problems — each one replacing a category of paid tooling. Live overview at [dw-digital-consulting.com/#agents](https://dw-digital-consulting.com/#agents).
+
+| Agent | Replaces | Status |
 |---|---|---|
-| [AI Brand Perception Audit](https://github.com/d-walia/ai-brand-perception-audit) | B2B buyer-journey probes across AI assistants: does your category get proposed, do you get shortlisted, and what proof would make the AI recommend you | 🔒 Beta |
+| AI Brand Auditor | Profound, AthenaHQ | Built |
+| Competitive Intel Researcher | Klue, Crayon | Built |
+| Intelligent Copywriter | Writer, Jasper | In progress |
+| Customer Researcher | Wynter, UserTesting | Planned |
+| Dashboard Synthesizer | Tableau, Looker Studio | Planned |
+| Content Agents | Canva, Adobe GenStudio | Planned |
+
+Code lives in private repos during active development. Reach out if you'd like a walkthrough.
 
