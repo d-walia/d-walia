@@ -22,6 +22,7 @@ Custom agents built with Claude for real GTM problems — each one replacing a c
 |---|---|---|
 | AI Brand Auditor | Profound, AthenaHQ | Built |
 | Competitive Intel Researcher | Klue, Crayon | Built |
+| Meeting Transcriber | Otter, Fireflies | Built |
 | Intelligent Copywriter | Writer, Jasper | In progress |
 | Customer Researcher | Wynter, UserTesting | Planned |
 | Dashboard Synthesizer | Tableau, Looker Studio | Planned |
