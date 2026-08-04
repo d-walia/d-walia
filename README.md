@@ -25,7 +25,7 @@ Custom agents built with Claude for real GTM problems — each one replacing a c
 | Meeting Transcriber | Otter, Fireflies | Built |
 | Intelligent Copywriter | Writer, Jasper | In progress |
 | Customer Researcher | Wynter, UserTesting | Planned |
-| Dashboard Synthesizer | Tableau, Looker Studio | Planned |
+| Account Intelligence Agent | 6sense, Demandbase | Planned |
 | Content Agents | Canva, Adobe GenStudio | Planned |
 
 Code lives in private repos during active development. Reach out if you'd like a walkthrough.
