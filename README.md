@@ -23,10 +23,12 @@ Custom agents built with Claude for real GTM problems — each one replacing a c
 | AI Brand Auditor | Profound, AthenaHQ | Built |
 | Competitive Intel Researcher | Klue, Crayon | Built |
 | Meeting Transcriber | Otter, Fireflies | Built |
+| Live Meeting Transcriber | Otter, Fireflies | Built |
+| SEO Performance Monitor | Ahrefs, Semrush | Built |
+| Account Intelligence Agent | A GTM engineer / Clay consultant | Built |
 | Intelligent Copywriter | Writer, Jasper | In progress |
 | Customer Researcher | Wynter, UserTesting | Planned |
-| Account Intelligence Agent | Clay, 6sense | Planned |
 | Content Agents | Canva, Adobe GenStudio | Planned |
 
-Code lives in private repos during active development. Reach out if you'd like a walkthrough.
+The built agents are public at [d-walia/marketing-agents](https://github.com/d-walia/marketing-agents) — each with a design writeup. Reach out if you'd like a walkthrough.
 
