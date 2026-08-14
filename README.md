@@ -33,4 +33,4 @@ Custom agents built with Claude for real GTM problems, each replacing a category
 | Content Agents | Canva, Adobe GenStudio | Planned |
 | Competitor Content Analyzer | The crawl stack AEO teams build in-house | Planned |
 
-The built agents are public at [d-walia/marketing-agents](https://github.com/d-walia/marketing-agents), each with a design writeup. Reach out if you'd like a walkthrough.
+Most built agents are public at [d-walia/marketing-agents](https://github.com/d-walia/marketing-agents), each with a design writeup. The AI Brand Auditor is productized in a private repo. Reach out if you'd like a walkthrough.
