@@ -12,11 +12,11 @@ I'm a marketer working at the intersection of **AI and go-to-market strategy**: 
 
 I share what I build and learn in public: experiments, teardowns, prompt libraries, and the occasional skill worth reusing.
 
-**Portfolio site → [dw-digital-consulting.com](https://dw-digital-consulting.com)** has my work, the marketing agents I've built, and the AI stack I run across the funnel.
+**Portfolio site → [dhruvwalia.com](https://dhruvwalia.com)** has my work, the marketing agents I've built, and the AI stack I run across the funnel.
 
 ## 🛠️ Marketing agents
 
-Custom agents built with Claude for real GTM problems, each replacing a category of paid tooling. Live overview at [dw-digital-consulting.com/#agents](https://dw-digital-consulting.com/#agents).
+Custom agents built with Claude for real GTM problems, each replacing a category of paid tooling. Live overview at [dhruvwalia.com/#agents](https://dhruvwalia.com/#agents).
 
 | Agent | Replaces | Status |
 |---|---|---|
