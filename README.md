@@ -1,36 +1,19 @@
 # Hi, I'm Dhruv 👋
 
-I'm a marketer working at the intersection of **AI and go-to-market strategy**: figuring out how brands show up when the "search engine" is a language model.
+I'm a researcher and developer working on two questions about AI agents: **do their beliefs hold up under pressure, and can they be trusted to spend money?**
 
-## What I'm into
+## Research
 
-- 🔍 **GEO / AEO**: how AI assistants discover, cite, and describe brands, and what marketers can do about it
-- 📐 **Measurement**: attribution and influence when the buyer journey runs through ChatGPT and Claude instead of Google
-- 🛠️ **Building with AI**: prompts, agents, and Claude Code skills that turn marketing workflows into shareable tools
+- 🧠 **AI Belief Stability**: how language models form, hold, and abandon beliefs when exposed to noise, contradiction, and persuasion. I run controlled studies on when a model should update and when it should stand its ground.
+- 💳 **Agentic Payments**: what happens when an agent reaches the checkout. Authorization, spend limits, fraud surfaces, and how merchants and payment rails should treat a buyer that isn't human. Public study: [agent-checkout-study](https://github.com/d-walia/agent-checkout-study).
+
+## Side interests
+
+- ⚖️ **Legal AI**: how far a thin wrapper around a frontier model gets you in legal research, and where it breaks.
+- 🛠️ **Marketing agents**: an earlier body of work building Claude agents for go-to-market problems, public at [d-walia/marketing-agents](https://github.com/d-walia/marketing-agents).
 
 ## What you'll find here
 
-I share what I build and learn in public: experiments, teardowns, prompt libraries, and the occasional skill worth reusing.
+Experiments, write-ups, and the occasional reusable tool. I share work in public when it's ready and keep studies private while they're in progress. Reach out if you'd like a walkthrough of anything.
 
-**Portfolio site → [dhruvwalia.com](https://dhruvwalia.com)** has my work, the marketing agents I've built, and the AI stack I run across the funnel.
-
-## 🛠️ Marketing agents
-
-Custom agents built with Claude for real GTM problems, each replacing a category of paid tooling. Live overview at [dhruvwalia.com/#agents](https://dhruvwalia.com/#agents).
-
-| Agent | Replaces | Status |
-|---|---|---|
-| AI Brand Auditor | Profound, AthenaHQ | Built |
-| Site Auditor | Screaming Frog | Built |
-| SEO Performance Monitor | Ahrefs, Semrush | Built |
-| Competitive Intel Researcher | Klue, Crayon | Built |
-| Meeting Transcriber | Otter, Fireflies | Built |
-| Live Meeting Transcriber | Otter, Fireflies | Built |
-| Account Intelligence Agent | A GTM engineer / Clay consultant | Built |
-| Landing Page Builder | Figma comps, screenshot stitching | Built |
-| Intelligent Copywriter | Writer, Jasper | Planned |
-| Customer Researcher | Wynter, UserTesting | Planned |
-| Content Agents | Canva, Adobe GenStudio | Planned |
-| Competitor Content Analyzer | The crawl stack AEO teams build in-house | Planned |
-
-Most built agents are public at [d-walia/marketing-agents](https://github.com/d-walia/marketing-agents), each with a design writeup. The AI Brand Auditor is productized in a private repo. Reach out if you'd like a walkthrough.
+**Site → [dhruvwalia.com](https://dhruvwalia.com)**
