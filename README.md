@@ -1,7 +1,3 @@
-# Hi, I'm Dhruv 👋
-
-**Researcher and builder.** I study how AI models reason, and build software from what I find.
-
 Two questions drive most of my work: **do AI models hold stable beliefs, and can AI agents be trusted to buy things?**
 
 ## Research
