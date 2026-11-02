@@ -2,7 +2,7 @@ Two questions drive most of my work: **do AI models hold stable beliefs, and can
 
 ## Research
 
-- 🧠 **Belief Stability**: whether AI models hold consistent opinions about the brands they recommend, or change their answer when the question is reworded. The study tests one-shot questions against full buyer conversations with pushback. Design frozen, pilot next.
+- 🧠 **Belief Stability**: whether AI models hold consistent opinions about the brands they recommend, or change their answer when the question is reworded. The preregistered study asked GPT-5.6, Gemini 3.8 Flash and Claude Sonnet 5 about 20 B2B software purchases, each in 5 wordings and 3 reruns, as a plain question, as a request for one pick, and with the pick asked in a follow-up turn. Analysis done and audited, the registration is public ([OSF](https://osf.io/sn23j/)), and the paper is written; preprint coming.
 - 🛒 **Agentic Checkout**: whether AI shopping agents can complete a purchase at real online stores, and what stops them. Claude agents attempted checkout at 250 US stores. Finding: the platform decides, not the size of the company. Shopify stores almost never blocked the agent; most big brands elsewhere did. Data: [agent-checkout-study](https://github.com/d-walia/agent-checkout-study).
 
 Full write-ups at [dhruvwalia.com/research](https://dhruvwalia.com/research).
