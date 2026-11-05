@@ -3,13 +3,13 @@ Two questions drive most of my work: **do AI models hold stable beliefs, and can
 ## Research
 
 - 🧠 **Belief Stability**: whether AI models hold consistent opinions about the brands they recommend, or change their answer when the question is reworded. The preregistered study asked GPT-5.6, Gemini 3.8 Flash and Claude Sonnet 5 about 20 B2B software purchases, each in 5 wordings and 3 reruns, as a plain question, as a request for one pick, and with the pick asked in a follow-up turn. Analysis done and audited, the registration is public ([OSF](https://osf.io/sn23j/)), and the paper is written; preprint coming.
-- 🛒 **Agentic Checkout**: whether AI shopping agents can complete a purchase at real online stores, and what stops them. Claude agents attempted checkout at 250 US stores. Finding: the platform decides, not the size of the company. Shopify stores almost never blocked the agent; most big brands elsewhere did. Data: [agent-checkout-study](https://github.com/d-walia/agent-checkout-study).
+- 🛒 **Agentic Checkout**: whether AI shopping agents can complete a purchase at real online stores, and what stops them. Claude, GPT, Gemini and Jev agents attempted checkout at 500 US stores (Jev at 250). Finding: the platform decides, not the size of the company. Shopify stores almost never blocked the agent; most big brands elsewhere did. Data: [agent-checkout-study](https://github.com/d-walia/agent-checkout-study).
 
 Full write-ups at [dhruvwalia.com/research](https://dhruvwalia.com/research).
 
 ## Building
 
-- **Register**: a readiness check for agentic checkout. Runs real AI buyers at a store and reports which can complete a purchase, with the fix for the ones that can't. [register.dhruvwalia.workers.dev](https://register.dhruvwalia.workers.dev)
+- **Register**: a readiness check for agentic checkout. Runs real AI buyers at a store and reports which can complete a purchase, with the fix for the ones that can't. [register.dhruvwalia.com](https://register.dhruvwalia.com)
 - **Rescue Dog Tracker**: a live board for rescues to track every dog's health, notes, and daily activity, run from the rescue's Google Sheet. [walks.dhruvwalia.com](https://walks.dhruvwalia.com)
 - **Werewolf Survival**: a social-deduction survival game for Dota 2, a remake of the Warcraft III classic.
 
